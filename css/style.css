@@ -208,6 +208,20 @@ span.top {
 .feather-tab{
   margin-top: 100px;
 }
+#m{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  justify-content: space-between;
+}
+.pa{
+  font-size: 15px;
+  
+}
+#f{
+  font-weight: bold;
+  font-size: 16px;
+}
 .hudai{
   margin-top: 35px;
 }
